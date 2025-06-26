@@ -8,7 +8,7 @@
             <div className="flex gap-[400px] items-center text-white pt-[50px] relative z-10" >
                  <div className="font-[Bruno Ace SC] text-[24px]  leading-none  w-[200px]"> 
                     <span> GYM</span>
-                    <span className="text-yellow-200 " >24</span>
+                    <span className="text-[#FAFF00] " >24</span>
                   </div>
                  <div className=" flex gap-[100px]">
                     <span>Advantages</span>
@@ -21,7 +21,7 @@
             <div className=" flex  text-white mt-[200px] relative z-10 ">
                 <div>
                     <h1 className="text-[64px] ">Free trial session <br /> with a trainer</h1>
-                    <button className="bg-yellow-200 text-black w-[177px] h-[52px] rounded-[30px] mt-[50px]  ">
+                    <button className="bg-[#FAFF00] text-black w-[177px] h-[52px] rounded-[30px] mt-[50px]  ">
                         details
                     </button>
                 </div>
